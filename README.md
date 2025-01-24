@@ -45,8 +45,9 @@ Check out the live demo here: [My Portfolio](https://your-portfolio-link.com)
 |-- index.html        # Main HTML file
 |-- style.css         # Stylesheet for the project
 |-- script.js         # JavaScript for interactivity
-|-- /Images           # Folder containing images and icons
+|-- /Images            # Folder containing images and icons
 |-- README.md         # Project documentation
+|-- MIT License       # License of project 
 ```
 
 ---
